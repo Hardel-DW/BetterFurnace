@@ -1,64 +1,35 @@
-# BeyondEnchant V1, The ultimate enchantment expansion
-![infinite_enchant_logo](https://github.com/YourUsername/InfiniteEnchant/assets/your-asset-id/logo.png)
+# BetterFurnace - Datapack - 1.20.6 - Snapshot 1.21
+![better_furnace](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/05922563-9464-4497-9d7c-59adbcf76b9e)
 
-# BeyondEnchant !
-BeyondEnchant is the ultimate expansion for enchantments, developed by Hardel. This mod allows you to break the traditional limits of enchantments, introducing unprecedented flexibility and power to your Minecraft experience. Enhance your gear beyond the vanilla constraints and explore new heights of gameplay.
+# What is BetterFurnace ?
+BetterFurnace is developed by Hardel. This mod/datapack introduces seven new types of furnaces with varying cooking speeds, wihout Resource Pack ! They're getting harder and harder to get and fit perfectly with your minecraft survival.
 
-# Compatibility with NeoEnchant+
-BeyondEnchant is fully compatible with NeoEnchant, bringing you even more possibilities and combinations. Use both mods together to maximize your enchantment potential and enjoy an unparalleled Minecraft experience.
+https://github.com/Hardel-DW/BetterFurnace/assets/42413417/4584fa30-c80f-4c47-b5ce-ac2a8626d314
 
-## New limits
-BeyondEnchant not introduces new enchantments, but also increases the maximum level of existing enchantments. This allows you to push your gear to new heights and customize your gameplay to suit your style, play now for fun and enjoy the new enchantments limits.
+### Link
+- **GitHub**: Contribute on [GitHub](https://github.com/Hardel-DW/BetterFurnace/issues).
+- **Download**: Soon
 
-| Enchantment |  New Max Level | Detail |
-| --- | --- | --- |
-| **Aqua Affinity** | 5 | Allows you to breathe longer underwater |
-| **Bane of Arthropods** | 10 | Increases damage against arthropods |
-| **Blast Protection** | 10 | Reduces damage from explosions |
-| **Breach** | 8 | Reduce armor effectiveness |
-| **Channeling** | 5 | Summons lightning at the target |
-| **Density** | 10 | Increases the smash attack per block with mace |
-| **Depth Strider** | 8 | Increases underwater movement speed |
-| **Efficiency** | 10 | Increases mining speed |
-| **Feather Falling** | 10 | Reduces fall damage |
-| **Fire Aspect** | 7 | The time of ignite is increased |
-| **Fire Protection** | 10 | Reduces damage from fire |
-| **Flame** | 7 | The time of ignite is increased |
-| **Fortune** | 9 | Increases block drops |
-| **Frost Walker** | 8 | Freezes water |
-| **Impaling** | 10 | Increases damage against sea creatures |
-| **Knockback** | 10 | Increases knockback |
-| **Looting** | 9 | Increases mob drops |
-| **Loyalty** | 8 | Increases trident return speed |
-| **Luck of the Sea** | 10 | Increases fishing luck |
-| **Lure** | 10 | Increases fishing speed |
-| **Mending** | 5 | The repairs is increased for each level |
-| **Multishot** | 5 | Shoot more arrows at once |
-| **Piercing** | 10 | Arrows can pierce through multiple entities |
-| **Power** | 10 | Increases bow damage |
-| **Projectile Protection** | 10 | Reduces damage from projectiles |
-| **Protection** | 10 | Reduces all damage |
-| **Punch** | 10 | Increases arrow knockback |
-| **Quick Charge** | 7 | Reduces crossbow reload time |
-| **Respiration** | 8 | Increases the number oxygen bubbles |
-| **Riptide** | 8 | Launches the player when thrown |
-| **Sharpness** | 10 | Increases melee damage |
-| **Smite** | 10 | Increases damage against undead |
-| **Sweeping Edge** | 10 | Increases sweep attack damage |
-| **Swift Sneak** | 8 | Increases sneaking speed |
-| **Thorns** | 7 | Damages attackers |
-| **Unbreaking** | 10 | Increases item durability |
-| **Wind Burst** | 10 | Increases the wind charge knockback |
+# Gaemplay Details !
+You can found here the cooking speed, and all recipes ! 
 
+| Furnace  | Cooking Speed |
+| --- | --- |
+| **Iron** | 4 Seconds |
+| **Copper** | 3 Seconds |
+| **Golden** | 2 Seconds | 
+| **Diamond** | 1 Seconds |
+| **Emerald** | 0.5 Seconds |
+| **Netherite** | 4 Items per seconds |
+| **Extreme** | 20 Items per seconds | 
 
-### What's is NeoEnchant+ ?
-NeoEnchant+ is the official TechnicalEnchant+ update by Hardel. Introduces a new suite of enchantments. Explore innovative ways to enhance your Minecraft experience. This project is the continuation of Technical Enchant+ (Version 4).
-- **GitHub**: Contribute on [GitHub](https://github.com/Hardel-DW/NeoEnchant).
-- **Download**: [NeoEnchant+ on Modrinth](https://modrinth.com/datapack/neoenchant)
-
-## Contributing
-You can contribute on the official GitHub. We welcome all contributions that help enhance this project and make Minecraft more enjoyable for everyone.
-[https://github.com/YourUsername/InfiniteEnchant](https://github.com/YourUsername/InfiniteEnchant)
+![javaw_qbxhVyJs21](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/3a60b207-ddd3-4420-b7bf-167ddf1be5a4)
+![javaw_DMz71Aypg6](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/d5e40280-7809-486e-a7cb-a8bc4df8eeaf)
+![javaw_KMNmbw2r4q](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/af820cd7-66ba-4628-96ff-e5ff4686df80)
+![javaw_3pkrXkMinV](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/387805c6-bcf8-48ae-9523-3037a9c4b619)
+![javaw_DwT5TAc4eX](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/84e1fc4d-21d0-4c52-ad7d-9b68a7ac8f13)
+![javaw_dcnonpeN8A](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/7f187a99-3234-4867-a472-dd59c64b6207)
+![javaw_6HtcAACPzR](https://github.com/Hardel-DW/BetterFurnace/assets/42413417/a417f3be-831c-4c96-baa3-6879d05cf00d)
 
 ## License
 This project is licensed under the Voxel License - see the LICENSE file for details.
@@ -68,4 +39,11 @@ Thanks to all the contributors who have helped in developing these enchantments 
 
 ## Bugs
 If you find any bugs, please report them on GitHub.
-[https://github.com/YourUsername/InfiniteEnchant/issues](https://github.com/YourUsername/InfiniteEnchant/issues)
+[https://github.com/Hardel-DW/BetterFurnace/issues](https://github.com/Hardel-DW/BetterFurnace/issues)
+
+
+## Contributing
+You can contribute on the official Github. We welcome all contributions that help in enhancing this project and making Minecraft more enjoyable for everyone.
+You can also come on the discord ! [Hardel Lab's Discord](https://discord.gg/mVpYB6kF93)  
+
+[![discord_700](https://github.com/Hardel-DW/NeoEnchant/assets/42413417/d36d60d5-18f7-40e0-9d2d-dc610f6d42a5)](https://discord.gg/mVpYB6kF93)  
