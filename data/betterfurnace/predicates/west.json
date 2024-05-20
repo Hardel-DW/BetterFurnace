@@ -1,0 +1,70 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:player_head"
+                    ],
+                    "state": {
+                        "rotation": "10"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:player_head"
+                    ],
+                    "state": {
+                        "rotation": "11"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:player_head"
+                    ],
+                    "state": {
+                        "rotation": "12"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:player_head"
+                    ],
+                    "state": {
+                        "rotation": "13"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:player_wall_head"
+                    ],
+                    "state": {
+                        "facing": "west"
+                    }
+                }
+            }
+        }
+    ]
+}

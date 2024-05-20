@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "supported_formats": [
+            41,
+            44
+        ],
+        "pack_format": 41,
+        "description": "BetterFurnace by Hardel"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": [
+                    42,
+                    44
+                ],
+                "directory": "snapshot"
+            }
+        ]
+    }
+}

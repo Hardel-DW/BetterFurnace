@@ -1,0 +1,2 @@
+execute positioned ^ ^ ^0.1 unless block ~ ~ ~ #minecraft:replaceable run function betterfurnace:blocks/place/detect/hit
+execute positioned ^ ^ ^0.1 if entity @s[distance=..64] if block ~ ~ ~ #minecraft:replaceable run function betterfurnace:blocks/place/detect/raycast

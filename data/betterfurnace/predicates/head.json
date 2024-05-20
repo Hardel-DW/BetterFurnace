@@ -1,0 +1,9 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+        "block": {
+            "blocks": "#betterfurnace:player_heads",
+            "nbt": "{components:{\"minecraft:custom_data\":{betterfurnace:{custom_block:1b}}}}"
+        }
+    }
+}

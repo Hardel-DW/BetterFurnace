@@ -1,0 +1,1 @@
+$data merge entity @s {Tags:["betterfurnace.custom_block","$(name)"],Rotation:[$(rotation)f, 0f],brightness:{sky:15, block:15},item:{id:"minecraft:player_head",count:1,components:{"minecraft:profile":{properties:[{name:"textures",value:"$(value)"}]}}},transformation:{translation:$(translation),scale:[1.002f,1.002f,1.002f]}}

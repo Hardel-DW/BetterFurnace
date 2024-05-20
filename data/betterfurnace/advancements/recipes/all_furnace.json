@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_furnace": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:furnace"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:furnace"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_furnace"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "betterfurnace:copper_furnace",
+      "betterfurnace:diamond_furnace",
+      "betterfurnace:emerald_furnace",
+      "betterfurnace:extreme_furnace",
+      "betterfurnace:golden_furnace",
+      "betterfurnace:iron_furnace",
+      "betterfurnace:netherite_furnace"
+    ]
+  }
+}
