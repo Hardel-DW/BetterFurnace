@@ -6,4 +6,5 @@ execute if entity @s[tag=betterfurnace.diamond_furnace] run loot spawn ~ ~ ~ loo
 execute if entity @s[tag=betterfurnace.emerald_furnace] run loot spawn ~ ~ ~ loot betterfurnace:emerald_furnace
 execute if entity @s[tag=betterfurnace.netherite_furnace] run loot spawn ~ ~ ~ loot betterfurnace:netherite_furnace
 execute if entity @s[tag=betterfurnace.extreme_furnace] run loot spawn ~ ~ ~ loot betterfurnace:extreme_furnace
+execute as @e[type=item_display,tag=betterfurnace.custom_block] at @s unless block ~ ~ ~ minecraft:furnace run kill @s
 kill @s
