@@ -1,7 +1,11 @@
 {
 	"type": "minecraft:crafting_shaped",
 	"category": "misc",
-	"pattern": ["xxx", "xox", "xxx"],
+	"pattern": [
+		"xxx",
+		"xox",
+		"xxx"
+	],
 	"key": {
 		"x": "minecraft:diamond",
 		"o": "minecraft:furnace"
@@ -16,9 +20,17 @@
 					"id": "diamond_furnace"
 				}
 			},
-			"minecraft:item_name": "\"Diamond Furnace\"",
+			"minecraft:item_name": {
+				"text": "Diamond Furnace",
+				"color": "white"
+			},
 			"minecraft:profile": {
-				"id": [106477804, 96423650, -2021886691, -11073157],
+				"id": [
+					106477804,
+					96423650,
+					-2021886691,
+					-11073157
+				],
 				"properties": [
 					{
 						"name": "textures",

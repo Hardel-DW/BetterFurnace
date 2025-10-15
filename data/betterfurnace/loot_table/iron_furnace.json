@@ -19,7 +19,10 @@
                 "id": "iron_furnace"
               }
             },
-            "minecraft:item_name": "\"Iron Furnace\"",
+            "minecraft:item_name": {
+              "text": "Iron Furnace",
+              "color": "white"
+            },
             "minecraft:profile": {
               "id": [
                 106477804,

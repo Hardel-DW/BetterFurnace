@@ -1,7 +1,11 @@
 {
 	"type": "minecraft:crafting_shaped",
 	"category": "misc",
-	"pattern": ["xxx", "xox", "xxx"],
+	"pattern": [
+		"xxx",
+		"xox",
+		"xxx"
+	],
 	"key": {
 		"x": "minecraft:iron_ingot",
 		"o": "minecraft:furnace"
@@ -16,9 +20,17 @@
 					"id": "iron_furnace"
 				}
 			},
-			"minecraft:item_name": "\"Iron Furnace\"",
+			"minecraft:item_name": {
+				"text": "Iron Furnace",
+				"color": "white"
+			},
 			"minecraft:profile": {
-				"id": [106477804, 96423650, -2021886691, -11073157],
+				"id": [
+					106477804,
+					96423650,
+					-2021886691,
+					-11073157
+				],
 				"properties": [
 					{
 						"name": "textures",

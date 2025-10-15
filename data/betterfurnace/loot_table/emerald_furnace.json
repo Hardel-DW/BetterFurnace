@@ -19,7 +19,10 @@
                 "id": "emerald_furnace"
               }
             },
-            "minecraft:item_name": "\"Emerald Furnace\"",
+            "minecraft:item_name": {
+              "text": "Emerald Furnace",
+              "color": "white"
+            },
             "minecraft:profile": {
               "id": [
                 106477804,

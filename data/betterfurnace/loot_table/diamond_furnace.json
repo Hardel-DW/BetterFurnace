@@ -19,7 +19,10 @@
                 "id": "diamond_furnace"
               }
             },
-            "minecraft:item_name": "\"Diamond Furnace\"",
+            "minecraft:item_name": {
+              "text": "Diamond Furnace",
+              "color": "white"
+            },
             "minecraft:profile": {
               "id": [
                 106477804,

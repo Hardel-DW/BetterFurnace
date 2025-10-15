@@ -19,7 +19,10 @@
                 "id": "extreme_furnace"
               }
             },
-            "minecraft:item_name": "\"Extreme Furnace\"",
+            "minecraft:item_name": {
+              "text": "Extreme Furnace",
+              "color": "white"
+            },
             "minecraft:profile": {
               "id": [
                 106477804,

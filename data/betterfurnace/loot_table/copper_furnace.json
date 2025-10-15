@@ -19,7 +19,10 @@
                 "id": "copper_furnace"
               }
             },
-            "minecraft:item_name": "\"Copper Furnace\"",
+            "minecraft:item_name": {
+              "text": "Copper Furnace",
+              "color": "white"
+            },
             "minecraft:profile": {
               "id": [
                 106477804,

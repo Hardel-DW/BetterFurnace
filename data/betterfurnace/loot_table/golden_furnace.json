@@ -19,7 +19,10 @@
                 "id": "golden_furnace"
               }
             },
-            "minecraft:item_name": "\"Golden Furnace\"",
+            "minecraft:item_name": {
+              "text": "Golden Furnace",
+              "color": "white"
+            },
             "minecraft:profile": {
               "id": [
                 106477804,

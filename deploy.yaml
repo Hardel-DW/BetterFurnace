@@ -1,0 +1,28 @@
+project:
+  version: 1.2.0
+  name: Better Furnace
+  filename: BetterFurnace
+modrinth:
+  enabled: true
+  project_id: kJjhh2ZO
+  featured: false
+curseforge:
+  datapack:
+    enabled: false
+    project_id: null
+  mod:
+    enabled: false
+    project_id: null
+package_as_mod:
+  enabled: false
+build:
+  exclude:
+    - .git
+    - .github
+    - .changeset
+    - .vscode
+    - .cursor
+    - node_modules
+    - README.md
+    - .gitignore
+    - deploy.yaml
