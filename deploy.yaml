@@ -13,8 +13,13 @@ curseforge:
   mod:
     enabled: false
     project_id: null
+    java_versions: []
+    environments: []
 package_as_mod:
   enabled: false
+  loaders: []
+  id: ''
+  authors: []
 build:
   exclude:
     - .git
