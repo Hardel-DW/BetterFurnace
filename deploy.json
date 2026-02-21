@@ -1,0 +1,47 @@
+{
+    "project": {
+        "version": "1.3.0",
+        "name": "Better Furnace",
+        "filename": "BetterFurnace"
+    },
+    "modrinth": {
+        "enabled": true,
+        "project_id": "kJjhh2ZO",
+        "featured": false,
+        "dependencies": []
+    },
+    "curseforge": {
+        "datapack": {
+            "enabled": false,
+            "project_id": null,
+            "dependencies": []
+        },
+        "mod": {
+            "enabled": false,
+            "project_id": null,
+            "java_versions": [],
+            "environments": [],
+            "dependencies": []
+        }
+    },
+    "package_as_mod": {
+        "enabled": false,
+        "loaders": [],
+        "id": "",
+        "authors": []
+    },
+    "build": {
+        "exclude": [
+            ".git",
+            ".github",
+            ".changeset",
+            ".vscode",
+            ".cursor",
+            "node_modules",
+            "README.md",
+            ".gitignore",
+            "deploy.yaml",
+            "deploy.json"
+        ]
+    }
+}
